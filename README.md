@@ -16,7 +16,7 @@ this dashboard provides an interactive tool to explore automobile sales trends, 
    
 2. run the python file:
 
-python3.8 DV0101EN-Final-Assign-Part-2-Questions.py
+ python3.8 DV0101EN-Final-Assign-Part-2-Questions.py
 
 
 3. observe the port number shown in the terminal.
